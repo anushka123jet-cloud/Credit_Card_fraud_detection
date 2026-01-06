@@ -1,2 +1,25 @@
-# Credit_Card_fraud_detection
-Credit Card Fraud Detection using Machine Learning This repository contains a machine learning project that identifies fraudulent credit card transactions using Logistic Regression. The model is trained on anonymized transaction data and evaluated using standard classification metrics.
+# Credit Card Fraud Detection
+
+## Project Description
+This project detects fraudulent credit card transactions using Machine Learning.
+Logistic Regression is used for binary classification.
+
+## Dataset
+The dataset contains anonymized features (V1–V28), Time, Amount, and Class.
+
+## Algorithm Used
+- Logistic Regression
+- StandardScaler
+- Train-Test Split
+
+## Output
+- Accuracy score
+- Confusion Matrix
+- Classification Report
+
+## Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Google Colab
